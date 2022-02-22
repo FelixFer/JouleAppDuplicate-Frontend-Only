@@ -1,0 +1,49 @@
+.cardRow {
+    height: 80px;
+}
+
+.imgCol {
+    padding: 0px;
+}
+
+.text1 {
+    font-size: 70%;
+}
+
+.text2 {
+    font-size: 50%;
+}
+
+.sub {
+    margin-top: 20px;
+    padding-left: 15px;
+    font-size: 10px;
+    color: #c5bcc6;
+}
+
+.imgA1 {
+    width: 80px;
+    height: 100%;
+    background-size: cover;
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    float: left;
+    content: url(../../public/assets/images/a1.jpg);
+}
+
+.imgB1 {
+    width: 80px;
+    height: 100%;
+    padding: 5px;
+    float: left;
+    content: url(../../public/assets/images/b1.png);
+}
+
+.imgC1 {
+    width: 80px;
+    height: 100%;
+    padding: 5px;
+    float: left;
+    content: url(../../public/assets/images/c1.png);
+}
